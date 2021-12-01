@@ -1,0 +1,15 @@
+
+{
+    "class": "AS3",
+    "action": "deploy",
+    "persist": true,
+    "declaration": {
+      "class": "ADC",
+      "schemaVersion": "3.0.0",
+      "LAB1_A_LTM": {
+        "class": "Tenant"
+
+        
+      }
+    }
+}
